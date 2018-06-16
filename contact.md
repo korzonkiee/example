@@ -4,4 +4,6 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-Tutaj będzie kontakt.
+**Patryk Żakowski**  
+**tel. kom**.: 792-396-672  
+**e-mail**: pzakowski.fold@gmail.com
