@@ -13,3 +13,11 @@ layout: home
 <br><br>
 
 ## Oferujemy **kompleksowe wykończenia wnętrz** na terenie Białegostoku i okolic.
+
+- Malowanie
+- Szpachlowanie
+- Układanie płytek (gresu terakoty i fryzury)
+- Zabudowy g-k
+- Podwieszane sufity
+- Układanie paneli podlogowych
+- inne prace wykończeniowe.
